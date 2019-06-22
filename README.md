@@ -20,8 +20,7 @@
    ```
 3. Install JS requirement dengan npm
    ```
-   $ npm i --save express mysql body-parser
-   $ npm i --save-dev nodemon
+   $ npm i
    ```
 4. Jalankan server
    ```
