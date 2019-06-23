@@ -1,3 +1,12 @@
+Sudah dideploy ke sini nih => https://simplecrud-drzaln.herokuapp.com/
+
+```
+list user => https://simplecrud-drzaln.herokuapp.com/users
+
+list user berdasarkan id => https://simplecrud-drzaln.herokuapp.com/user/id
+```
+##### Tutorial menyusul di sini nih => [klik disini](drzaln.github.io)
+
 ## Simpel CRUD dengan ExpressJS dan MySql
 
 #### Requirement
